@@ -1,4 +1,5 @@
-OSI (Open Systems Interconnection) Model là một mô hình tham chiếu để mô tả cách thức thông tin được truyền qua một mạng máy tính. Mô hình OSI được tạo ra bởi Tổ chức Tiêu chuẩn Hóa Quốc tế (ISO) để giúp các nhà sản xuất thiết bị mạng và các nhà cung cấp dịch vụ mạng đồng bộ hóa các chuẩn kỹ thuật và giao thức mạng. Mô hình OSI được phân chia thành 7 tầng, mỗi tầng đại diện cho một chức năng cụ thể của việc truyền thông qua mạng:
+# OSI (Open Systems Interconnection) Model 
+là một mô hình tham chiếu để mô tả cách thức thông tin được truyền qua một mạng máy tính. Mô hình OSI được tạo ra bởi Tổ chức Tiêu chuẩn Hóa Quốc tế (ISO) để giúp các nhà sản xuất thiết bị mạng và các nhà cung cấp dịch vụ mạng đồng bộ hóa các chuẩn kỹ thuật và giao thức mạng. Mô hình OSI được phân chia thành 7 tầng, mỗi tầng đại diện cho một chức năng cụ thể của việc truyền thông qua mạng:
 
 * Tầng Vật lý (Physical Layer): Tầng này định nghĩa các đặc tả về các đường truyền vật lý, các thiết bị phát và nhận tín hiệu, các chuẩn kết nối vật lý, các đặc tính về tần số, độ dài sóng và tốc độ truyền dữ liệu.
 
